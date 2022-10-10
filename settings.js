@@ -23,8 +23,8 @@ global.language = english  //change indonesia to english if you don't understand
 
 
 // Other
-global.botname = "BagasZ-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ BagasOfcོ ×፝֟͜×" //nama kalian
+global.botname = "CoolXBOT" //namabot kalian
+global.ownername= "Bagas" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
